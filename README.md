@@ -15,6 +15,7 @@
 ![submit notif](assets/submit_home.jpg)
 
 #aplikasi berjalan 
+
 ![all action](assets/all_action.gif)
 
 #setelah close di click, maka otomatis akan kembali ke login page
